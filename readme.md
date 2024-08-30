@@ -15,3 +15,7 @@ This project is a  example of building a neural network to classify cat images. 
 ## About
 
 The core functions required for building and training the neural network are implemented in the utils.py file. These functions are then called with the appropriate arguments in the dnn.ipynb Jupyter notebook, where the complete workflow is demonstrated, including data loading, preprocessing, model training, and evaluation.
+
+## Output of the model
+
+- The model achieves an accuracy of 80% on the test dataset. 
